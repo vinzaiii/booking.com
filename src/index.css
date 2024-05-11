@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Blinker", sans-serif;
+}
+
+.container {
+  width: 70%;
+  margin: auto;
+}
+
+
+
+@media all and (max-width: 425px) {
+  .container {
+    width: 90%;
+    margin: auto;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
